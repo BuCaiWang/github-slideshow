@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "something new!"
 
 ---
 on Edit to make an ezzz
